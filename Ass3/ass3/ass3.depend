@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1699807105 source:d:\fpt\ass3\ass3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ParseSrec.h"
+
+1699758605 d:\fpt\ass3\ass3\parsesrec.h
+	<stdint.h>
+
+1699806076 source:d:\fpt\ass3\ass3\parsesrec.c
+	"ParseSrec.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1699805412 source:d:\fpt\ass3\ass3\display.c
+	"Display.h"
+
+1699805414 d:\fpt\ass3\ass3\display.h
+	<stdio.h>
+	"ParseSrec.h"
+

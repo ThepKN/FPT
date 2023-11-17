@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1699102718 source:d:\fpt\assimen2\io.c
+	"IO.h"
+	<stdio.h>
+
+1699102802 source:d:\fpt\assimen2\main.c
+	<stdio.h>
+	"Device.h"
+	"IO.h"
+
+1699102757 d:\fpt\assimen2\device.h
+
+1699102767 d:\fpt\assimen2\io.h
+
+1699102700 source:d:\fpt\assimen2\device.c
+	"Device.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

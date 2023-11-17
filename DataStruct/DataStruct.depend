@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1698399668 source:d:\fpt\datastruct\io.c
+
+1698493107 source:d:\fpt\datastruct\list.c
+	"List.h"
+
+1698493126 d:\fpt\datastruct\list.h
+	<stdint.h>
+	<stdlib.h>
+
+1698495944 source:d:\fpt\datastruct\main.c
+	"array.h"
+	"IO.h"
+	"List.h"
+
+1698497150 d:\fpt\datastruct\array.h
+	<stdint.h>
+	<stdlib.h>
+
+1698399668 d:\fpt\datastruct\io.h
+
+1698495990 source:d:\fpt\datastruct\array.c
+	"array.h"
+	"IO.h"
+	<stdint.h>
+
